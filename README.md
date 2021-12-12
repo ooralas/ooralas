@@ -7,7 +7,8 @@
 - 🥅 2022 Goals: I am looking forward to an internship to put what I have learned more into practice
 - 🗄️ Portofolio:
     - [Mini StockApp][stockapp] : a mini Stock application made with ExpressJS & MongoDB using MVC Pattern 
-    - [EinNeuesLeben][einneuesleben]: Eine Website, die die Geschichte eines Geflüchteten erzählt.
+    - [EinNeuesLeben][einneuesleben]: Eine Website, die die Geschichte eines Geflüchteten erzählt. The website was developed for "KAUSA-Stelle Düsseldorf", in the project "Kreative Technologien - Konzeption und Umsetzung" at "Hochschule Düsseldorf"
+    - [SecAdvisor][secAdvisor]: an browser extension that identies vulnerable source code in forum posts and allows software developers to omit the source code by marking the forum posts as dangerous
 
 ### Connect with me:
 
@@ -47,3 +48,4 @@
 
 [stockapp]: https://miniprojects-stockapp.herokuapp.com/
 [einneuesleben]: https://einneuesleben.tk/
+[secAdvisor]: https://secadvisor.dev/login
