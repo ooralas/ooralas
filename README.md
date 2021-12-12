@@ -6,10 +6,11 @@
 - 👯 I’m looking to collaborate with other programmers 
 - 🥅 2022 Goals: I am looking forward to an internship to put what I have learned more into practice
 - 🗄️ Portofolio:
-    - [Mini StockApp][stockapp] : a mini Stock application made with ExpressJS & MongoDB using MVC Pattern [Preview][stockappPreview]
-    - [EinNeuesLeben][einneuesleben]: Eine Website, die die Geschichte eines Geflüchteten erzählt. The website was developed for "KAUSA-Stelle Düsseldorf", in the project "Kreative Technologien - Konzeption und Umsetzung" at "Hochschule Düsseldorf" [Preview][einneueslebenPreview]
-    - [SecAdvisor][secAdvisor]: an browser extension that identies vulnerable source code in forum posts and allows software developers to omit the source code by marking the forum posts as dangerous.
+    - [Mini StockApp][stockapp] : A mini Stock application made with ExpressJS & MongoDB using MVC Pattern [Preview][stockappPreview]
+    - [EinNeuesLeben][einneuesleben]: A website that tells the story of a refugee. This website was developed for "KAUSA-Stelle Düsseldorf", in the project "Kreative Technologien - Konzeption und Umsetzung" at "Hochschule Düsseldorf" [Preview][einneueslebenPreview]
+    - [SecAdvisor][secAdvisor]: An browser extension that identies vulnerable source code in forum posts and allows software developers to omit the source code by marking the forum posts as dangerous.
     - [Mini BlogApp][blogapp]: A blog web application made with ExpressJS and MonogoDB, implemented using MVC pattern. [Preview][blogappPreview]
+    - [Responsive Landing Page Tmp.1][responsivePageTmp1]: A responsive landing page using with CSS Grid & CSS Flexbox
 
 ### Connect with me:
 
@@ -51,8 +52,10 @@
 [einneuesleben]: https://github.com/ooralas/EinNeuesLeben
 [secAdvisor]: https://github.com/SecAdvisor
 [blogapp]: https://github.com/ooralas/mini_projects_expressjs_mongodb_Blog
+[responsivePageTmp1]: https://github.com/ooralas/mini_projects-HTML-CSS_Template01
 
 [einneueslebenPreview]: https://einneuesleben.tk/
 [stockappPreview]: https://miniprojects-stockapp.herokuapp.com/
 [secAdvisorDashboardPreview]: https://secadvisor.dev/login
 [blogappPreview]: https://miniprojects-blogapp.herokuapp.com/
+[responsivePageTmp1Preview]: https://ooralas.github.io/mini_projects-HTML-CSS_Template01/
