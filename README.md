@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other programmers 
 - 🥅 2022 Goals: I am looking forward to an internship to put what I have learned more into practice
-- 🗄️ Portfolio:
+- 🗄️ Portofolio:
     - [Mini StockApp][stockapp] : a mini Stock application made with ExpressJS & MongoDB using MVC Pattern 
     - [EinNeuesLeben][einneuesleben]: Eine Website, die die Geschichte eines Geflüchteten erzählt.
 
