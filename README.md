@@ -48,7 +48,7 @@
 [linkedin]: https://www.linkedin.com/in/salar-al-ali-bb52221bb/
 [xing]: https://www.xing.com/profile/Salar_AlAli
 
-[stockapp]: https://github.com/ooralas/mini_projects_expressjs_mongodb_MVC_StockApp
+[stockapp]: https://github.com/ooralas/mini_projects-expressjs_mongodb_MVC_StockApp
 [einneuesleben]: https://github.com/ooralas/EinNeuesLeben
 [secAdvisor]: https://github.com/SecAdvisor
 [blogapp]: https://github.com/ooralas/mini_projects-expressjs_mongodb_Blog
