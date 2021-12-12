@@ -12,7 +12,7 @@
     - [Mini BlogApp][blogapp]: A blog web application made with ExpressJS and MonogoDB, implemented using MVC pattern. [Preview][blogappPreview]
     - [Responsive Landing Page Tmp.1][responsivePageTmp1]: A responsive landing page using with CSS Grid & CSS Flexbox [Preview][responsivePageTmp1Preview]
 - 🏋️ Training:
-    - [JavaScript ][javascripttraining]
+    - [JavaScript ][javascripttraining]: basics, array, objects ...
 
 ### Connect with me:
 
