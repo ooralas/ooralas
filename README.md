@@ -6,9 +6,9 @@
 - 👯 I’m looking to collaborate with other programmers 
 - 🥅 2022 Goals: I am looking forward to an internship to put what I have learned more into practice
 - 🗄️ Portofolio:
-    - [Mini StockApp][stockapp] : a mini Stock application made with ExpressJS & MongoDB using MVC Pattern 
-    - [EinNeuesLeben][einneuesleben]: Eine Website, die die Geschichte eines Geflüchteten erzählt. The website was developed for "KAUSA-Stelle Düsseldorf", in the project "Kreative Technologien - Konzeption und Umsetzung" at "Hochschule Düsseldorf"
-    - [SecAdvisor][secAdvisor]: an browser extension that identies vulnerable source code in forum posts and allows software developers to omit the source code by marking the forum posts as dangerous
+    - [Mini StockApp][stockapp] : a mini Stock application made with ExpressJS & MongoDB using MVC Pattern [Preview][stockappPreview]
+    - [EinNeuesLeben][einneuesleben]: Eine Website, die die Geschichte eines Geflüchteten erzählt. The website was developed for "KAUSA-Stelle Düsseldorf", in the project "Kreative Technologien - Konzeption und Umsetzung" at "Hochschule Düsseldorf" [Preview][einneueslebenPreview]
+    - [SecAdvisor][secAdvisor]: an browser extension that identies vulnerable source code in forum posts and allows software developers to omit the source code by marking the forum posts as dangerous.
 
 ### Connect with me:
 
@@ -46,6 +46,10 @@
 [linkedin]: https://www.linkedin.com/in/salar-al-ali-bb52221bb/
 [xing]: https://www.xing.com/profile/Salar_AlAli
 
-[stockapp]: https://miniprojects-stockapp.herokuapp.com/
-[einneuesleben]: https://einneuesleben.tk/
-[secAdvisor]: https://secadvisor.dev/login
+[stockapp]: https://github.com/ooralas/mini_projects_expressjs_mongodb_MVC_StockApp
+[einneuesleben]: https://github.com/ooralas/EinNeuesLeben
+[secAdvisor]: https://github.com/SecAdvisor
+
+[einneueslebenPreview]: https://einneuesleben.tk/
+[stockappPreview]: https://miniprojects-stockapp.herokuapp.com/
+[secAdvisorDashboardPreview]: https://secadvisor.dev/login
