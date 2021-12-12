@@ -1,10 +1,11 @@
-### Hallo, I'm Salar  👋 
+### Hallo, I'm Salar 👋 
 
 ## I'm a Student and frontend Developer!!
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other programmers 
 - 🥅 2022 Goals: I am looking forward to an internship to put what I have learned more into practice
+- 🗄️ Portfolio:
 
 ### Connect with me:
 
