@@ -51,7 +51,7 @@
 [stockapp]: https://github.com/ooralas/mini_projects_expressjs_mongodb_MVC_StockApp
 [einneuesleben]: https://github.com/ooralas/EinNeuesLeben
 [secAdvisor]: https://github.com/SecAdvisor
-[blogapp]: https://github.com/ooralas/mini_projects_expressjs_mongodb_Blog
+[blogapp]: https://github.com/ooralas/mini_projects-expressjs_mongodb_Blog
 [responsivePageTmp1]: https://github.com/ooralas/mini_projects-HTML-CSS_Template01
 
 [einneueslebenPreview]: https://einneuesleben.tk/
