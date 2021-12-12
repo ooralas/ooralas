@@ -1,4 +1,4 @@
-### Hi there, I'm Salar - aka ooralas 👋 
+### Hallo, I'm Salar  👋 
 
 ## I'm a Student, Developer!!
 
