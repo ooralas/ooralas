@@ -1,6 +1,6 @@
 ### Hallo, I'm Salar  👋 
 
-## I'm a Student, Developer!!
+## I'm a Student and frontend Developer!!
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
