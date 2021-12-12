@@ -9,6 +9,7 @@
     - [Mini StockApp][stockapp] : a mini Stock application made with ExpressJS & MongoDB using MVC Pattern [Preview][stockappPreview]
     - [EinNeuesLeben][einneuesleben]: Eine Website, die die Geschichte eines Geflüchteten erzählt. The website was developed for "KAUSA-Stelle Düsseldorf", in the project "Kreative Technologien - Konzeption und Umsetzung" at "Hochschule Düsseldorf" [Preview][einneueslebenPreview]
     - [SecAdvisor][secAdvisor]: an browser extension that identies vulnerable source code in forum posts and allows software developers to omit the source code by marking the forum posts as dangerous.
+    - [Mini BlogApp][blogapp]: A blog web application made with ExpressJS and MonogoDB, implemented using MVC pattern. [Preview][blogappPreview]
 
 ### Connect with me:
 
@@ -49,7 +50,9 @@
 [stockapp]: https://github.com/ooralas/mini_projects_expressjs_mongodb_MVC_StockApp
 [einneuesleben]: https://github.com/ooralas/EinNeuesLeben
 [secAdvisor]: https://github.com/SecAdvisor
+[blogapp]: https://github.com/ooralas/mini_projects_expressjs_mongodb_Blog
 
 [einneueslebenPreview]: https://einneuesleben.tk/
 [stockappPreview]: https://miniprojects-stockapp.herokuapp.com/
 [secAdvisorDashboardPreview]: https://secadvisor.dev/login
+[blogappPreview]: https://miniprojects-blogapp.herokuapp.com/
