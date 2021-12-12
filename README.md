@@ -11,6 +11,8 @@
     - [SecAdvisor][secAdvisor]: A browser extension that identies vulnerable source code in forum posts and allows software developers to omit the source code by marking the forum posts as dangerous.
     - [Mini BlogApp][blogapp]: A blog web application made with ExpressJS and MonogoDB, implemented using MVC pattern. [Preview][blogappPreview]
     - [Responsive Landing Page Tmp.1][responsivePageTmp1]: A responsive landing page using with CSS Grid & CSS Flexbox [Preview][responsivePageTmp1Preview]
+- 🏋️ Training:
+    - [JavaScript ][javascripttraining]
 
 ### Connect with me:
 
@@ -59,3 +61,5 @@
 [secAdvisorDashboardPreview]: https://secadvisor.dev/login
 [blogappPreview]: https://miniprojects-blogapp.herokuapp.com/
 [responsivePageTmp1Preview]: https://ooralas.github.io/mini_projects-HTML-CSS_Template01/
+
+[javascripttraining]: https://github.com/ooralas/training_JavaScript
