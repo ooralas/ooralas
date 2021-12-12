@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate with other programmers 
 - 🥅 2022 Goals: I am looking forward to an internship to put what I have learned more into practice
 - 🗄️ Portfolio:
+    - [Mini StockApp][stockapp]
 
 ### Connect with me:
 
@@ -42,3 +43,5 @@
 [instagram]: https://instagram.com/salar.alali
 [linkedin]: https://www.linkedin.com/in/salar-al-ali-bb52221bb/
 [xing]: https://www.xing.com/profile/Salar_AlAli
+
+[stockapp]: https://miniprojects-stockapp.herokuapp.com/
