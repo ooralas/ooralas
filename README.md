@@ -8,10 +8,10 @@
 - 🗄️ Portofolio:
     - [Mini StockApp][stockapp] : A mini Stock application made with ExpressJS & MongoDB using MVC Pattern [Preview][stockappPreview]
     - [EinNeuesLeben][einneuesleben]: A website that tells the story of a refugee. This website was developed for "KAUSA-Stelle Düsseldorf", in the project "Kreative Technologien - Konzeption und Umsetzung" at "Hochschule Düsseldorf" [Preview][einneueslebenPreview]
-    - [SecAdvisor][secAdvisor]: A browser extension that identies vulnerable source code in forum posts and allows software developers to omit the source code by marking the forum posts as dangerous.
+    - [SecAdvisor][secAdvisor]: A browser extension that identifies vulnerable source code in forum posts and allows software developers to omit the source code by marking the forum posts as dangerous.
     - [Mini BlogApp][blogapp]: A blog web application made with ExpressJS and MonogoDB, implemented using MVC pattern. [Preview][blogappPreview]
     - [Responsive Landing Page Tmp.1][responsivePageTmp1]: A responsive landing page using with CSS Grid & CSS Flexbox [Preview][responsivePageTmp1Preview]
-    - [Weather WebApp for small Screens][weatherappvuejs2]: A Weather webapplication made with VueJS v2 [Preview][weatherappvuejs2Preview]
+    - [WeatherApp for small Screens][weatherappvuejs2]: A Weather web application made with VueJS v2 [Preview][weatherappvuejs2Preview]
 - 🏋️ Training:
     - [JavaScript ][javascripttraining]: basics, array, objects ...
 
