@@ -25,6 +25,8 @@
 
 <br />
 
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
@@ -47,7 +49,7 @@
 
 <br/>
 
----
+
 
 [instagram]: https://instagram.com/salar.alali
 [linkedin]: https://www.linkedin.com/in/salar-al-ali-bb52221bb/
