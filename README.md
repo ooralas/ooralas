@@ -15,19 +15,8 @@
 - 🏋️ Training:
     - [JavaScript ][javascripttraining]: basics, array, objects ...
 
-### Connect with me:
 
-
-[<img align="left" alt="ooralas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.2.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ooralas | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.2.0/icons/xing.svg" />][xing]
-[<img align="left" alt="ooralas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.2.0/icons/instagram.svg" />][instagram]
-
-
-<br />
-
----
-
-### Languages and Tools:
+## Languages and Tools:
 
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
@@ -47,8 +36,17 @@
 <img align="left" alt="Terminal" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <br />
-
 ---
+
+## Connect with me:
+
+
+[<img align="left" alt="ooralas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.2.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ooralas | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.2.0/icons/xing.svg" />][xing]
+[<img align="left" alt="ooralas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6.2.0/icons/instagram.svg" />][instagram]
+
+
+
 
 
 
