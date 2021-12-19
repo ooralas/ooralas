@@ -36,6 +36,7 @@
 <img align="left" alt="Terminal" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <br />
+
 ---
 
 ## Connect with me:
