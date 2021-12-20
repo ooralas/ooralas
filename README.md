@@ -8,9 +8,9 @@
 - 🗄️ Portofolio:
     - [EinNeuesLeben][einneuesleben]: A website that tells the story of a refugee. This website was developed for "KAUSA-Stelle Düsseldorf", in the project "Kreative Technologien - Konzeption und Umsetzung" at "Hochschule Düsseldorf" [Preview][einneueslebenPreview]
     - [SecAdvisor][secAdvisor]: A browser extension that identifies vulnerable source code in forum posts and allows software developers to omit the source code by marking the forum posts as dangerous.
-    - [Mini StockApp][stockapp] : A mini Stock application made with ExpressJS & MongoDB using MVC Pattern [Preview][stockappPreview]
-    - [Mini BlogApp][blogapp]: A blog web application made with ExpressJS and MonogoDB, implemented using MVC pattern. [Preview][blogappPreview]
-    - [WeatherApp for small Screens][weatherappvuejs2]: A Weather web application made with VueJS v2 [Preview][weatherappvuejs2Preview]
+    - [Mini Stock App][stockapp] : A mini Stock application made with ExpressJS & MongoDB using MVC Pattern [Preview][stockappPreview]
+    - [Mini Blog App][blogapp]: A blog web application made with ExpressJS and MonogoDB, implemented using MVC pattern. [Preview][blogappPreview]
+    - [Weather App][weatherappvuejs2]: A Weather web application for small Screens made with VueJS v2 [Preview][weatherappvuejs2Preview]
     - [ToDo App][todoapp]: A ToDp app made with ReactJS.
     - [Responsive Landing Page Tmp.1][responsivePageTmp1]: A responsive landing page using with CSS Grid & CSS Flexbox [Preview][responsivePageTmp1Preview]
     
