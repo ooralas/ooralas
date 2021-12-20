@@ -11,7 +11,7 @@
     - [Mini Stock App][stockapp] : A mini Stock application made with ExpressJS & MongoDB using MVC Pattern [Preview][stockappPreview]
     - [Mini Blog App][blogapp]: A blog web application made with ExpressJS and MonogoDB, implemented using MVC pattern. [Preview][blogappPreview]
     - [Weather App][weatherappvuejs2]: A Weather web application for small Screens made with VueJS v2 [Preview][weatherappvuejs2Preview]
-    - [ToDo App][todoapp]: A ToDp app made with ReactJS.
+    - [ToDo App][todoapp]: A ToDo app made with ReactJS.
     - [Responsive Landing Page Tmp.1][responsivePageTmp1]: A responsive landing page using with CSS Grid & CSS Flexbox [Preview][responsivePageTmp1Preview]
     
 - 🏋️ Training:
