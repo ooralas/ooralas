@@ -11,7 +11,7 @@
     - [Mini Stock App][stockapp] : A mini Stock application made with ExpressJS & MongoDB using MVC Pattern [Preview][stockappPreview]
     - [Mini Blog App][blogapp]: A blog web application made with ExpressJS and MonogoDB, implemented using MVC pattern. [Preview][blogappPreview]
     - [Weather App][weatherappvuejs2]: A Weather web application for small Screens made with VueJS v2 [Preview][weatherappvuejs2Preview]
-    - [ToDo App][todoapp]: A ToDo app made with ReactJS.
+    - [ToDo App][todoapp]: A ToDo app made with ReactJS. [Preview][todoapp-reactjsPreview]
     - [Responsive Landing Page Tmp.1][responsivePageTmp1]: A responsive landing page using with CSS Grid & CSS Flexbox [Preview][responsivePageTmp1Preview]
     
 - 🏋️ Training:
@@ -63,7 +63,7 @@
 [blogapp]: https://github.com/ooralas/mini_projects-expressjs_mongodb_Blog
 [responsivePageTmp1]: https://github.com/ooralas/mini_projects-HTML-CSS_Template01
 [weatherappvuejs2]: https://github.com/ooralas/mini_projects-weatherapp_vuejs2
-[todoapp]: https://github.com/ooralas/WebFrameworks_VC/tree/salar/Uebung10_ReactJS01/todo-app
+[todoapp]: https://github.com/ooralas/mini_projects-ToDoApp_ReactJS
 
 [einneueslebenPreview]: https://einneuesleben.tk/
 [stockappPreview]: https://miniprojects-stockapp.herokuapp.com/
@@ -71,5 +71,6 @@
 [blogappPreview]: https://miniprojects-blogapp.herokuapp.com/
 [responsivePageTmp1Preview]: https://ooralas.github.io/mini_projects-HTML-CSS_Template01/
 [weatherappvuejs2Preview]: https://miniprojects-weatherapp-vuejs2.herokuapp.com/
+[todoapp-reactjsPreview]: https://miniprojects-todoapp-reactjs.herokuapp.com/
 
 [javascripttraining]: https://github.com/ooralas/training_JavaScript
