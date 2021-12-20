@@ -12,6 +12,7 @@
     - [Mini Blog App][blogapp]: A blog web application made with ExpressJS and MonogoDB, implemented using MVC pattern. [Preview][blogappPreview]
     - [Weather App][weatherappvuejs2]: A Weather web application for small Screens made with VueJS v2 [Preview][weatherappvuejs2Preview]
     - [ToDo App][todoapp]: A ToDo app made with ReactJS. [Preview][todoapp-reactjsPreview]
+    - [URL Shortner RESTful API][urlshortnerapi]: An API that shortens the long URLs, with the  option to shorten the link with a desired alias.
     - [Responsive Landing Page Tmp.1][responsivePageTmp1]: A responsive landing page using with CSS Grid & CSS Flexbox [Preview][responsivePageTmp1Preview]
     
 - 🏋️ Training:
@@ -64,6 +65,7 @@
 [responsivePageTmp1]: https://github.com/ooralas/mini_projects-HTML-CSS_Template01
 [weatherappvuejs2]: https://github.com/ooralas/mini_projects-weatherapp_vuejs2
 [todoapp]: https://github.com/ooralas/mini_projects-ToDoApp_ReactJS
+[urlshortnerapi]: https://github.com/ooralas/mini_projects-urlShortner_express_mongodb
 
 [einneueslebenPreview]: https://einneuesleben.tk/
 [stockappPreview]: https://miniprojects-stockapp.herokuapp.com/
