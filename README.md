@@ -72,7 +72,7 @@
 [secAdvisorDashboardPreview]: https://secadvisor.dev/login
 [blogappPreview]: https://miniprojects-blogapp.herokuapp.com/
 [responsivePageTmp1Preview]: https://ooralas.github.io/mini_projects-HTML-CSS_Template01/
-[weatherappvuejs2Preview]: https://miniprojects-weatherapp-vuejs2.herokuapp.com/
+[weatherappvuejs2Preview]: https://miniprojects-weatherapp-vuejs2.netlify.app/
 [todoapp-reactjsPreview]: https://miniprojects-todoapp-reactjs.netlify.app
 
 [javascripttraining]: https://github.com/ooralas/training_JavaScript
