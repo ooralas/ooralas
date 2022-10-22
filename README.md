@@ -68,9 +68,9 @@
 [urlshortnerapi]: https://github.com/ooralas/mini_projects-urlShortner_express_mongodb
 
 [einneueslebenPreview]: https://einneuesleben.tk/
-[stockappPreview]: https://miniprojects-stockapp.herokuapp.com/
+[stockappPreview]: https://dark-blue-deer-cap.cyclic.app/stocks
 [secAdvisorDashboardPreview]: https://secadvisor.dev/login
-[blogappPreview]: https://miniprojects-blogapp.herokuapp.com/
+[blogappPreview]: https://lively-teal-swordfish.cyclic.app/
 [responsivePageTmp1Preview]: https://ooralas.github.io/mini_projects-HTML-CSS_Template01/
 [weatherappvuejs2Preview]: https://miniprojects-weatherapp-vuejs2.netlify.app/
 [todoapp-reactjsPreview]: https://miniprojects-todoapp-reactjs.netlify.app
