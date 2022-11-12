@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other programmers 
-- 🥅 2022 Goals: I am looking forward to an internship to put what I have learned more into practice
+- 🎯 2022 Goal: I am looking forward to an internship to put what I have learned more into practice ✅
+- 🥅 2023 Goal: graduate and get my bachelor's degree 🎓
+
 - 🗄️ Portofolio:
     - [EinNeuesLeben][einneuesleben]: A website that tells the story of a refugee. This website was developed for "KAUSA-Stelle Düsseldorf", in the project "Kreative Technologien - Konzeption und Umsetzung" at "Hochschule Düsseldorf" [Preview][einneueslebenPreview]
     - [SecAdvisor][secAdvisor]: A browser extension that identifies vulnerable source code in forum posts and allows software developers to omit the source code by marking the forum posts as dangerous.
