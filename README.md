@@ -1,11 +1,13 @@
-### Hallo, I'm Salar 👋 
+### Servus!, I'm Salar 👋 
 
-## I'm a Student and frontend Developer!!
+## I'm a Web Developer with a Bachelor's Degree in IT! 🎓💻
 
 - 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other programmers 
+- 👯 I’m looking always to collaborate with other programmers 
 - 🎯 2022 Goal: I am looking forward to an internship to put what I have learned more into practice ✅
 - 🥅 2023 Goal: graduate and get my bachelor's degree 🎓
+    - Successfully graduate and earn my bachelor's degree in IT 🎓✅
+- 💼 2024 Goal: Actively drive innovation in both Backend and Frontend development projects, exploring opportunities to introduce cutting-edge solutions and enhancements and aim to foster a culture of continuous improvement within the development team! 🚀💡
 
 - 🗄️ Portofolio:
     - [EinNeuesLeben][einneuesleben]: A website that tells the story of a refugee. This website was developed for "KAUSA-Stelle Düsseldorf", in the project "Kreative Technologien - Konzeption und Umsetzung" at "Hochschule Düsseldorf" [Preview][einneueslebenPreview]
