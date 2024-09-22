@@ -1,6 +1,6 @@
 ### Servus!, I'm Salar 👋 
 
-## I'm a Web Developer with a Bachelor's Degree in IT! 🎓💻
+## I'm a Software Engineer with a Bachelor's Degree in IT! 🎓💻
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking always to collaborate with other programmers 
