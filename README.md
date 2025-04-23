@@ -10,7 +10,7 @@
 - 💼 2024 Goal: Actively drive innovation in both Backend and Frontend development projects, exploring opportunities to introduce cutting-edge solutions and enhancements and aim to foster a culture of continuous improvement within the development team! 🚀💡✅
 
 - 🗄️ Portofolio:
-    - [EinNeuesLeben][einneuesleben]: A website that tells the story of a refugee. This website was developed for "KAUSA-Stelle Düsseldorf", in the project "Kreative Technologien - Konzeption und Umsetzung" at "Hochschule Düsseldorf" [Preview][einneueslebenPreview]
+    - [EinNeuesLeben][einneuesleben]: A website that tells the story of a refugee. This website was developed for "KAUSA-Stelle Düsseldorf", in the project "Kreative Technologien - Konzeption und Umsetzung" at "Hochschule Düsseldorf"
     - [SecAdvisor][secAdvisor]: A browser extension that identifies vulnerable source code in forum posts and allows software developers to omit the source code by marking the forum posts as dangerous.
     - [Mini Stock App][stockapp] : A mini Stock application made with ExpressJS & MongoDB using MVC Pattern [Preview][stockappPreview]
     - [Mini Blog App][blogapp]: A blog web application made with ExpressJS and MonogoDB, implemented using MVC pattern. [Preview][blogappPreview]
@@ -72,7 +72,6 @@
 [todoapp-glassmorphism]: https://react-todoapp-glassmorphism.netlify.app/
 [urlshortnerapi]: https://github.com/ooralas/mini_projects-urlShortner_express_mongodb
 
-[einneueslebenPreview]: https://einneuesleben.tk/
 [stockappPreview]: https://dark-blue-deer-cap.cyclic.app/stocks
 [secAdvisorDashboardPreview]: https://secadvisor.dev/login
 [blogappPreview]: https://lively-teal-swordfish.cyclic.app/
